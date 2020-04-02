@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirebaseProject1</string>
+    <string-array name="subjectNameArray">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Thwory Of Computation</item>
+        <item>MachineLearning</item>
+        <item>Automation</item>
+    </string-array>
+</resources>
